@@ -1,0 +1,41 @@
+{
+  "name": "vue-web-macos",
+  "version": "1.0.0",
+  "description": "基于Vue3生态实现macOS Big Sur",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "lint": "eslint \"**/*.{vue,ts,js}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutoumiao/vue-web-macos.git"
+  },
+  "keywords": [],
+  "author": "Mutoumiao <839608583@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mutoumiao/vue-web-macos/issues"
+  },
+  "homepage": "https://github.com/Mutoumiao/vue-web-macos#readme",
+  "dependencies": {
+    "pinia": "^2.0.9",
+    "vue": "3.2.26"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.1.0",
+    "@vitejs/plugin-vue-jsx": "^1.3.3",
+    "autoprefixer": "^10.4.2",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.3.0",
+    "pnpm": "^6.28.0",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.16",
+    "vite": "^2.7.13"
+  }
+}

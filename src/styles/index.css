@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    height: 100vh;
+    background: url('~/assets/wallpaper.jpg') no-repeat;
+    background-size: cover;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue",
+    "ts",
+    "tsx"
+  ],
+  "[vue]": {
+    "editor.defaultFormatter": "johnsoncodehk.volar"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "cSpell.words": [
+    "mutoumiao",
+    "pinia",
+    "pnpm",
+    "tailwindcss"
+  ],
+}
