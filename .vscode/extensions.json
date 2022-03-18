@@ -1,11 +1,9 @@
 {
   "recommendations": [
     "johnsoncodehk.volar",
-    "mikestead.dotenv",
-    "editorconfig.editorconfig",
-    "dbaeumer.vscode-eslint",
-    "heybourn.headwind",
-    "esbenp.prettier-vscode",
-    "bradlc.vscode-tailwindcss"
+    "johnsoncodehk.vscode-typescript-vue-plugin",
+    "antfu.iconify",
+    "antfu.unocss",
+    "dbaeumer.vscode-eslint"
   ]
 }

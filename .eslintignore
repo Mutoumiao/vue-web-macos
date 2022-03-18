@@ -1,5 +1,0 @@
-*.md
-node_modules
-.vscode
-dist
-public

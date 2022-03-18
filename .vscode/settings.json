@@ -9,13 +9,26 @@
   "[vue]": {
     "editor.defaultFormatter": "johnsoncodehk.volar"
   },
+  "prettier.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    "*.css": "postcss",
   },
   "cSpell.words": [
+    "antfu",
+    "iconify",
     "mutoumiao",
     "pinia",
     "pnpm",
-    "tailwindcss"
+    "prebuild",
+    "tailwindcss",
+    "typecheck",
+    "unocss",
+    "Unocss",
+    "unplugin",
+    "vueuse"
   ],
 }
